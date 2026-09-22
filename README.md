@@ -22,3 +22,18 @@ CONFIRM THAT IT NO LONGER EXISTS
 
 TASK 3
 <img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/a565b06b-9027-4253-9e66-4c1a9165a645" />
+Task 4
+CHALLENGES and how they sloved
+
+1.Incorrect File name and convert path
+I solve  this by check where the database file located
+2.Missing tablespace
+correct it  open  correct PDB
+3.OEM Express Invalid Container Name and Port Conflict
+to solve this I change port from 5500 to 5501
+
+INTEGRITY STASTEMENT
+
+I finish the Assignment according to requirements and this 
+repository including all task I suppose to do thank
+
