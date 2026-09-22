@@ -13,16 +13,33 @@ TAST2
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/860289bb-be9b-4491-8666-efb2761366ca" />
 <img width="763" height="494" alt="image" src="https://github.com/user-attachments/assets/0fa7070c-f846-44a1-b045-a7a9e20b8cc9" />
 <img width="1428" height="774" alt="image" src="https://github.com/user-attachments/assets/946e9116-55f5-4376-a4bb-51189b036ef4" />
+
+
 VERFY IF IT EXIST
+
+
 <img width="748" height="390" alt="image" src="https://github.com/user-attachments/assets/a4ca68b3-9a4a-4717-b38f-596c1da412a5" />
+
+
 DELETE COMPLETELY
+
+
 <img width="625" height="70" alt="image" src="https://github.com/user-attachments/assets/36d86b00-bd03-4199-9f29-f9681d120717" />
+
+
 CONFIRM THAT IT NO LONGER EXISTS
+
+
 <img width="617" height="106" alt="image" src="https://github.com/user-attachments/assets/e8673bdf-d32a-4028-9b31-6636f7dfe2f7" />
 
 TASK 3
+
+
 <img width="1600" height="847" alt="image" src="https://github.com/user-attachments/assets/a565b06b-9027-4253-9e66-4c1a9165a645" />
+
 Task 4
+
+
 CHALLENGES and how they sloved
 
 1.Incorrect File name and convert path
